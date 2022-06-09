@@ -11,7 +11,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adityabots/tgmusicbot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nikki6747/nikkimusic)
 
 
 
@@ -24,4 +24,4 @@
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### Owner Of This Repository
-[![Aditya Halder](https://telegra.ph/file/d975e532b9eaa92f7458d.jpg)](https://t.me/R_ONE_OP)
+[![R_ONE Halder](https://telegra.ph/file/d975e532b9eaa92f7458d.jpg)](https://t.me/R_ONE_OP)
