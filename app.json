@@ -1,6 +1,6 @@
 {
     "name": "𝐓𝐆𝐌𝐮𝐬𝐢𝐜𝐁𝐨𝐭",
-    "logo": "https://te.legra.ph/file/2e2ddeb33674ba956148f.jpg",
+    "logo": "https://telegra.ph/file/5a1af8214a8f224ceddbf.jpg",
     "description": "🥀 𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐚𝐧𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩 𝐕𝐂 ✨",
     "keywords": ["tgmusicbot", "voice chat", "telegram"],
     "repository": "https://github.com/adityabots/tgmusicbot",
@@ -61,7 +61,7 @@
         "SOURCE_CODE": {
             "description": "𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝑳𝒊𝒏𝒌 𝑭𝒐𝒓 𝑭𝒖𝒕𝒖𝒓𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔",
             "required": true,
-            "value": "https://github.com/adityabots/tgmusicbot"
+            "value": "https://t.me/R_ONE_OP"
         },
         "STRING_SESSION": {
             "description": "𝒀𝒐𝒖𝒓 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏 (𝑮𝒆𝒕 𝒊𝒕 𝑭𝒓𝒐𝒎 𝑹𝒆𝒑𝒍𝒊𝒕)",
@@ -70,18 +70,18 @@
         "SUDO_USERS": {
             "description": "𝑺𝒖𝒅𝒐 𝑼𝒔𝒆𝒓𝒔 𝑪𝒂𝒏 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉𝒐𝒖𝒕 𝑨𝒅𝒎𝒊𝒏 𝑷𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏",
             "required": true,
-            "value": "1282754256"
+            "value": "5067181307"
             
         },
         "SUPPORT_GROUP": {
             "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑮𝒓𝒐𝒖𝒑 𝑭𝒖𝒍𝒍 𝑳𝒊𝒏𝒌",
             "required": true,
-            "value": "https://t.me/AdityaDiscus"
+            "value": "https://t.me/jai_shree_ram_ayodhya"
         },
         "UPDATES_CHANNEL": {
             "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑭𝒖𝒍𝒍 𝑳𝒊𝒏𝒌",
             "required": true,
-            "value": "https://t.me/AdityaServer"
+            "value": "https://t.me/jai_shree_ram_ayodhya"
         }
     },
     "buildpacks": [
